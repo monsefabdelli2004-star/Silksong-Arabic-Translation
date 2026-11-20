@@ -29,12 +29,7 @@
 اضغط على زر التثبيت — وبنقرة واحدة سيتم تطبيق التعريب بالكامل!
 
 شغّل اللعبة واستمتع بالتجربة باللغة العربية.
-
-🛡️ الأمان والفحص
-
-ملاحظة: قد يقوم نظام Windows Defender أحياناً بإظهار تحذير عند تشغيل ملفات .exe غير الموقّعة رقمياً من الإنترنت. الملف آمن تماماً، ويمكنك مراجعة نتيجة الفحص عبر الرابط التالي:
-
-رابط فحص VirusTotal: [ضع رابط فحص VirusTotal هنا]
+Password="silksong"
 
 📜 About the Project
 
@@ -64,11 +59,9 @@ Click install — with a single click, everything is applied automatically.
 
 Launch the game and enjoy!
 
-🛡️ Security & Verification
+🛡️ Security
 
-Note: Because this is an independent, unsigned .exe installer, Windows SmartScreen or Defender may display a standard warning. You can verify the file's safety here:
-
-VirusTotal Scan: [Paste your VirusTotal link here]
+PASSWORD="silksong"
 
 ⚖️ Disclaimer
 
