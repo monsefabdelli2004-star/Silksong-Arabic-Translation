@@ -29,7 +29,7 @@
 اضغط على زر التثبيت — وبنقرة واحدة سيتم تطبيق التعريب بالكامل!
 
 شغّل اللعبة واستمتع بالتجربة باللغة العربية.
-Password="silksong"
+
 
 📜 About the Project
 
@@ -59,9 +59,6 @@ Click install — with a single click, everything is applied automatically.
 
 Launch the game and enjoy!
 
-🛡️ Security
-
-PASSWORD="silksong"
 
 ⚖️ Disclaimer
 
